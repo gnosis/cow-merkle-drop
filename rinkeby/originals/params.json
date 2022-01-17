@@ -1,1 +1,28 @@
-{"realTokenAddress":"0xb9f2e27133D7d128905eCd2be0980e2A67CC95C7","virtualTokenAddress":"0x135d7eaC6f3e1e66A92105b70705F82FA8f4736E","totalSupply":{"type":"BigNumber","hex":"0x0c9f2c9cd04674edea40000000"},"cowDao":"0xA2defeC6aC737FD9d30Ea1cC1313e9A0Af5bF178","merkleRoot":"0xdf009019be6d72a82aaf5c12ba9c0c76d1281ace6f3b66d5f0f60f668ca3fff2","communityFundsTarget":"0xeEd2a31341f75d6B953d426948bE73A197FB02a9","investorFundsTarget":"0x98Aa974dDFFE6cEB8D126F83E39C9Ad15e6C5b5D","usdcToken":"0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b","usdcPrice":{"type":"BigNumber","hex":"0x0249f0"},"gnoToken":"0xd0Dab4E640D95E9E8A47545598c33e31bDb53C7c","gnoPrice":{"type":"BigNumber","hex":"0x01550f7dca7000"},"wrappedNativeToken":"0xc778417E063141139Fce010982780140Aa0cD5Ab","nativeTokenPrice":{"type":"BigNumber","hex":"0x221b262dd800"},"teamController":"0xDB17CF2C66f79395311Cabb1c342764bBc0dDe27"}
+{
+  "realTokenAddress": "0xb9f2e27133D7d128905eCd2be0980e2A67CC95C7",
+  "virtualTokenAddress": "0x135d7eaC6f3e1e66A92105b70705F82FA8f4736E",
+  "totalSupply": {
+    "type": "BigNumber",
+    "hex": "0x0c9f2c9cd04674edea40000000"
+  },
+  "cowDao": "0xA2defeC6aC737FD9d30Ea1cC1313e9A0Af5bF178",
+  "merkleRoot": "0xdf009019be6d72a82aaf5c12ba9c0c76d1281ace6f3b66d5f0f60f668ca3fff2",
+  "communityFundsTarget": "0xeEd2a31341f75d6B953d426948bE73A197FB02a9",
+  "investorFundsTarget": "0x98Aa974dDFFE6cEB8D126F83E39C9Ad15e6C5b5D",
+  "usdcToken": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
+  "usdcPrice": {
+    "type": "BigNumber",
+    "hex": "0x0249f0"
+  },
+  "gnoToken": "0xd0Dab4E640D95E9E8A47545598c33e31bDb53C7c",
+  "gnoPrice": {
+    "type": "BigNumber",
+    "hex": "0x01550f7dca7000"
+  },
+  "wrappedNativeToken": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+  "nativeTokenPrice": {
+    "type": "BigNumber",
+    "hex": "0x221b262dd800"
+  },
+  "teamController": "0xDB17CF2C66f79395311Cabb1c342764bBc0dDe27"
+}
