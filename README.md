@@ -12,7 +12,9 @@ Each network will contain information about:
 # Rinkeby
 Claiming information for Rinkeby.
 
-* **Expiration**: `TODO: It would be nice, if we add expiration date for the claimings`
+* **Expiration**: (Deployment: `2022-01-13T10:40:01.000Z`)
+  * Investment: `2022-01-27T10:40:01.000Z`
+  * Airdrop: `2022-02-24T10:40:01.000Z`
 * **Claiming data**: [rinkeby/originals/claims.json](rinkeby/originals/claims.json)
 * **Mappings**: [rinkeby/mapping.json](rinkeby/mapping.json)
 * **Chunks**: [rinkeby/chunks](rinkeby/chunks)
