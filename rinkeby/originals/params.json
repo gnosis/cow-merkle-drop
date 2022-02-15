@@ -1,14 +1,15 @@
 {
-  "realTokenAddress": "0x7B31A04383Baef2DE7576460A64e475aaa000c75",
-  "virtualTokenAddress": "0x71A377EC0026A8E35AfD082d54E2f62d39AF075c",
+  "realTokenAddress": "0xA217b342517d2a978679b29BD6383Ff797b103b0",
+  "virtualTokenAddress": "0xa87bEa56b614Cf9b04f528B0E320Fb427B716709",
+  "initialTokenHolder": "0x4da289f0c05EEfEb3F4b39f836a5859c12B891E5",
   "totalSupply": {
     "type": "BigNumber",
-    "hex": "0x0c9f2c9cd04674edea40000000"
+    "hex": "0x033b2e3c9fd0803ce8000000"
   },
-  "cowDao": "0xDB630f1Da9e5AaD9B584DB377F590E7646e7350c",
-  "merkleRoot": "0xdf009019be6d72a82aaf5c12ba9c0c76d1281ace6f3b66d5f0f60f668ca3fff2",
-  "communityFundsTarget": "0xC05bA0D702635E5FFFDF293C82E0D9491580a895",
-  "investorFundsTarget": "0xC4D9576Af4104cBCf177a783eb675af7395870C7",
+  "cowDao": "0x4da289f0c05EEfEb3F4b39f836a5859c12B891E5",
+  "merkleRoot": "0xa51768422dd245b508739f734b6a3866ec8ac69c0b0871b45b7301fbc99b9a7b",
+  "communityFundsTarget": "0xd9395aeE9141a3Efeb6d16057c8f67fBE296734c",
+  "investorFundsTarget": "0xd9395aeE9141a3Efeb6d16057c8f67fBE296734c",
   "usdcToken": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
   "usdcPrice": {
     "type": "BigNumber",
@@ -17,12 +18,12 @@
   "gnoToken": "0xd0Dab4E640D95E9E8A47545598c33e31bDb53C7c",
   "gnoPrice": {
     "type": "BigNumber",
-    "hex": "0x01550f7dca7000"
+    "hex": "0x0214e8348c4f00"
   },
-  "wethToken": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
-  "wethPrice": {
+  "wrappedNativeToken": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+  "nativeTokenPrice": {
     "type": "BigNumber",
-    "hex": "0x221b262dd800"
+    "hex": "0x39257389bb3e"
   },
-  "teamController": "0x2ce83C19Ea362BfCEc9d9c22C366Bdf1f55352bd"
+  "teamController": "0xd9395aeE9141a3Efeb6d16057c8f67fBE296734c"
 }
