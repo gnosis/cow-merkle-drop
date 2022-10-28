@@ -1,6 +1,6 @@
 {
-  "realTokenAddress": "0x3430d04E42a722c5Ae52C5Bffbf1F230C2677600",
-  "virtualTokenAddress": "0xD057B63f5E69CF1B929b356b579Cba08D7688048",
+  "realTokenAddress": "0x91056D4A53E1faa1A84306D4deAEc71085394bC8",
+  "virtualTokenAddress": "0x7B878668Cd1a3adF89764D3a331E0A7BB832192D",
   "initialTokenHolder": "0xF15A268186F3060aA8a091Ea2038Fd230Eab751c",
   "totalSupply": {
     "type": "BigNumber",
